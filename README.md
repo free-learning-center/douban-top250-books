@@ -20,4 +20,4 @@ For now, the format is `mobi`. If you want other format, you can try [Calibre](h
 
 Q: Why the list is different from what I get?
 
-A: Because the list is updated by Douban every, The list is 2022-11-07.
+A: Because the list is updated by Douban everyday, The list is on 2022-11-07.
